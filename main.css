@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+    height: 25vh;
+    background-color: palevioletred;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+main {
+    padding: 10%;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    height: 10vh;
+    background-color: cornflowerblue;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
